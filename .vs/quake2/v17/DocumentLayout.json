@@ -1,12 +1,87 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\rayme\\Documents\\Homework-TrustMe\\ITGameMod\\quake2-full-GameModFall\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{99BC3F01-A7EE-4881-939F-8A5EB75E1973}|game\\game.vcxproj|C:\\Users\\rayme\\Documents\\Homework-TrustMe\\ITGameMod\\quake2-full-GameModFall\\game\\p_weapon.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{99BC3F01-A7EE-4881-939F-8A5EB75E1973}|game\\game.vcxproj|solutionrelative:game\\p_weapon.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files (x86)\\GOG Galaxy\\Games\\Quake II\\q2mod\\maps.lst||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99BC3F01-A7EE-4881-939F-8A5EB75E1973}|game\\game.vcxproj|C:\\Users\\rayme\\Documents\\Homework-TrustMe\\ITGameMod\\quake2-full-GameModFall\\game\\m_parasite.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{99BC3F01-A7EE-4881-939F-8A5EB75E1973}|game\\game.vcxproj|solutionrelative:game\\m_parasite.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99BC3F01-A7EE-4881-939F-8A5EB75E1973}|game\\game.vcxproj|C:\\Users\\rayme\\Documents\\Homework-TrustMe\\ITGameMod\\quake2-full-GameModFall\\game\\m_player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{99BC3F01-A7EE-4881-939F-8A5EB75E1973}|game\\game.vcxproj|solutionrelative:game\\m_player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "p_weapon.c",
+              "DocumentMoniker": "C:\\Users\\rayme\\Documents\\Homework-TrustMe\\ITGameMod\\quake2-full-GameModFall\\game\\p_weapon.c",
+              "RelativeDocumentMoniker": "game\\p_weapon.c",
+              "ToolTip": "C:\\Users\\rayme\\Documents\\Homework-TrustMe\\ITGameMod\\quake2-full-GameModFall\\game\\p_weapon.c",
+              "RelativeToolTip": "game\\p_weapon.c",
+              "ViewState": "AgIAACwDAAAAAAAAAADwv0gDAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-11-17T15:49:32.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "maps.lst",
+              "DocumentMoniker": "C:\\Program Files (x86)\\GOG Galaxy\\Games\\Quake II\\q2mod\\maps.lst",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Program Files (x86)\\GOG Galaxy\\Games\\Quake II\\q2mod\\maps.lst",
+              "ToolTip": "C:\\Program Files (x86)\\GOG Galaxy\\Games\\Quake II\\q2mod\\maps.lst",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Program Files (x86)\\GOG Galaxy\\Games\\Quake II\\q2mod\\maps.lst",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-11-17T15:48:14.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "m_parasite.h",
+              "DocumentMoniker": "C:\\Users\\rayme\\Documents\\Homework-TrustMe\\ITGameMod\\quake2-full-GameModFall\\game\\m_parasite.h",
+              "RelativeDocumentMoniker": "game\\m_parasite.h",
+              "ToolTip": "C:\\Users\\rayme\\Documents\\Homework-TrustMe\\ITGameMod\\quake2-full-GameModFall\\game\\m_parasite.h",
+              "RelativeToolTip": "game\\m_parasite.h",
+              "ViewState": "AgIAAGsAAAAAAAAAAAAAAIMAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-11-17T15:18:02.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "m_player.h",
+              "DocumentMoniker": "C:\\Users\\rayme\\Documents\\Homework-TrustMe\\ITGameMod\\quake2-full-GameModFall\\game\\m_player.h",
+              "RelativeDocumentMoniker": "game\\m_player.h",
+              "ToolTip": "C:\\Users\\rayme\\Documents\\Homework-TrustMe\\ITGameMod\\quake2-full-GameModFall\\game\\m_player.h",
+              "RelativeToolTip": "game\\m_player.h",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-11-17T15:18:00.188Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

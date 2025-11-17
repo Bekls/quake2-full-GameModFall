@@ -831,6 +831,16 @@ void Blaster_Fire (edict_t *ent, vec3_t g_offset, int damage, qboolean hyper, in
 
 	fire_blaster (ent, start, forward, damage, 1000, effect, hyper);
 
+	start[0] += right[0] * 10;
+	start[1] += right[1] * 10;
+	start[2] += right[2] * 10;
+	fire_blaster(ent, start, forward, damage, 1000, effect, hyper);
+
+	start[0] -= right[0] * 20;
+	start[1] -= right[1] * 20;
+	start[2] -= right[2] * 20;
+	fire_blaster(ent, start, forward, damage, 1000, effect, hyper);
+
 	// send muzzle flash
 	gi.WriteByte (svc_muzzleflash);
 	gi.WriteShort (ent-g_edicts);
